@@ -1,5 +1,5 @@
 # Proposal: Cyno (First person horror game)
-## First person horror game where you are trapped in an abandoned dog pound)
+## First person horror game where you are trapped in an abandoned dog pound
 Isaac Blake
 
 ## Needs and Opportunities
