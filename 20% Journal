@@ -1,0 +1,6 @@
+2/5/16
+  Today I started the "Rolling Ball" tutorial for unity on youtube. In the game, you play as a rolling ball and you have to collect yellow 
+  cubes on the game board. This tutorial taught many basic things in unity. I learned how to import assets and materials, use different textures, and some c# scripting.
+  A basic command while scripting in unity is control + single quote. If a word is highlighted while these buttons are pressed, then a web page is brought up.
+  This webpage has all c# commands that include the word that you highlighted. This is immensely helpful in a case where you dont know a certain command in c#, but you know a word that might be in it.
+  In a previous tutorial I watched, a simple world was created, with different geographical terrains. The tutorial showed how to also make a basic house, using 3d cubes. Building is essential in my game, to make clean, and good looking areas.
