@@ -4,3 +4,11 @@
   A basic command while scripting in unity is control + single quote. If a word is highlighted while these buttons are pressed, then a web page is brought up.
   This webpage has all c# commands that include the word that you highlighted. This is immensely helpful in a case where you dont know a certain command in c#, but you know a word that might be in it.
   In a previous tutorial I watched, a simple world was created, with different geographical terrains. The tutorial showed how to also make a basic house, using 3d cubes. Building is essential in my game, to make clean, and good looking areas.
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+2/16/16
+  Since I was gone for most of the week up state, I didnt have time to physically work on the project. Instead I thought more about what the 
+  plot will be, and just the over all gyst. You are a camper just camping in the woods. While setting up camp for the night, you hear a weird sound off in the distance.
+  Going over in the gernal direction of the sound, you see an arrow pointing in a direction away from camp (the arrow will be made of leaves or something). Not knowing any better, you head off into the woods.
+  You come across an old building that seems to have served a purpose in the past. The inside of the building will be pretty small, but on one end of the room there will be a stair case that leades deeper into the "small" building.
+  The door will slam behind you when you enter the lower level. Most of the texture is metal, and deeper on into the place you start to see empty cages, and some blood. Notes will be scattered throught the place as well.
+  You find out that the place you are in is an abandonded dog/animal testing facility(thus the title "Cyno" which is short for cynophobia which is the fear of dogs), and the objective is to escape.
