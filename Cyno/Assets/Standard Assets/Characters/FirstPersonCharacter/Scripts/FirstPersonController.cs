@@ -16,7 +16,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         [SerializeField] [Range(0f, 1f)] private float m_RunstepLenghten;
         [SerializeField] private float m_JumpSpeed;
         [SerializeField] private float m_StickToGroundForce;
-        [SerializeField] private float m_GravityMultiplier;
+        [SerializeField] private float m_GravityMultiplier ;
         [SerializeField] private MouseLook m_MouseLook;
         [SerializeField] private bool m_UseFovKick;
         [SerializeField] private FOVKick m_FovKick = new FOVKick();
@@ -79,6 +79,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
             {
                 m_MoveDir.y = 0f;
             }
+			
+			if(m_IsWalking == false)
+			{
+				m_StepInterval = 1000f;
+				m_StepCycle = 1000f;
+				
+			}
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
         }
