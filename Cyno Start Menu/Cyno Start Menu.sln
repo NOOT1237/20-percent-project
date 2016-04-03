@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8E23594-8F2E-6E8D-62D8-0385FDB29244}") = "Cyno Start Menu", "Assembly-CSharp-firstpass.csproj", "{B86F5976-2A18-4426-39AC-2EF134B6F850}"
+EndProject
+Project("{D8E23594-8F2E-6E8D-62D8-0385FDB29244}") = "Cyno Start Menu", "Assembly-CSharp.csproj", "{91C9B968-3914-128E-9EF7-4B9389CEB807}"
+EndProject
+Project("{D8E23594-8F2E-6E8D-62D8-0385FDB29244}") = "Cyno Start Menu", "Assembly-CSharp-Editor.csproj", "{A980F4D6-ACA0-D901-32CE-DBA12D0B23C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86F5976-2A18-4426-39AC-2EF134B6F850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86F5976-2A18-4426-39AC-2EF134B6F850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86F5976-2A18-4426-39AC-2EF134B6F850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86F5976-2A18-4426-39AC-2EF134B6F850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C9B968-3914-128E-9EF7-4B9389CEB807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C9B968-3914-128E-9EF7-4B9389CEB807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C9B968-3914-128E-9EF7-4B9389CEB807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C9B968-3914-128E-9EF7-4B9389CEB807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A980F4D6-ACA0-D901-32CE-DBA12D0B23C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A980F4D6-ACA0-D901-32CE-DBA12D0B23C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A980F4D6-ACA0-D901-32CE-DBA12D0B23C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A980F4D6-ACA0-D901-32CE-DBA12D0B23C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

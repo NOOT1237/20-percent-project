@@ -149,6 +149,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\NatureStarterKit2\info.txt" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
