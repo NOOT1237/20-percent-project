@@ -8,7 +8,7 @@ public class menuScript : MonoBehaviour {
 	public Button startText;
 	public Button exitText;
 
-	// Use this for initialization
+	
 	void Start () {
 	quitMenu = quitMenu.GetComponent<Canvas>();
 	startText = startText.GetComponent<Button>();
@@ -29,7 +29,7 @@ public class menuScript : MonoBehaviour {
 		
 	}
 	public void StartLevel(){
-		 SceneManager.LoadScene ("C:\\Users\\Isaac\\20%\\20-percent-project\\Cyno\\Assets\\Cyno");
+		 SceneManager.LoadScene ("Cyno 1");
 		
 	}
 	public void ExitGame(){

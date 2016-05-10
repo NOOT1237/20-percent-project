@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cyno Start Menu.unity
+- path: Assets/Cyno 1.unity
   isLoaded: 1
   isActive: 1

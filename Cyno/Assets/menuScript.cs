@@ -29,7 +29,7 @@ public class menuScript : MonoBehaviour {
 		
 	}
 	public void StartLevel(){
-		 SceneManager.LoadScene ("Cyno");
+		 SceneManager.LoadScene ("Cyno 1");
 		
 	}
 	public void ExitGame(){
