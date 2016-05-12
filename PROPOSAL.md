@@ -20,8 +20,8 @@ the case.
 | Date          | Deliverable   |
 | ------------- | ------------- |
 | February 26| Have the first area (the forest) worked on 
-| April 1| Have c# worked into the project as well as the research facility made
-|April 29|  Game working with lots of bugs, debugging next        
+| April 1| Have c# worked into the project.
+|April 29|  Have game 75% made.    
 
 ## Reality Check
 Materials:
